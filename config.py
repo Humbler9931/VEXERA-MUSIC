@@ -31,7 +31,7 @@ ALIVE_NAME = getenv("ALIVE_NAME", "promotionyoutubr")
 OWNER_ID = int(os.environ.get("5789538424"))
 DATABASE_URL = os.environ.get("mongodb+srv://nitishkypaurai17:RAJKUMARMOVIE@rajkumarmovie.qjhjk.mongodb.net/?retryWrites=true&w=majority&appName=RAJKUMARMOVIE")  # fill with your mongodb url
 # make a private channel and get the channel id
-LOG_CHANNEL = int(os.environ.get("-1002293663374"))
+LOG_CHANNEL = int(os.environ.get("-1001992548930"))
 # just fill with True or False (optional)
 BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", "False"))
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
